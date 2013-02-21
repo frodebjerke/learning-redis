@@ -15,4 +15,4 @@ client.mget("count", "k1", redis.print);
 
 client.quit(function (err, res) {
 	console.log("El finito");
-})
+});
