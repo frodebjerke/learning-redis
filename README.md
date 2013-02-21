@@ -13,3 +13,9 @@ First start the reader by ```$node reader.js```.
 Then the writer by ```$node writer.js```
 
 Reader will then output what the writer wrote to that list.
+
+A simple web-server with Redis
+---
+Returns the number of requests made to this server.
+
+Run by ```$node simple-web-server.js```
