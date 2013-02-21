@@ -5,4 +5,4 @@ Learning Redis (and Node) by doing exercises from the Seven Databases in Seven w
 
 Task one - Do a transaction
 ---
-run by node transaction.js
+run by '''$node transaction.js'''
