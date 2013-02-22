@@ -19,3 +19,11 @@ A simple web-server with Redis
 Returns the number of requests made to this server.
 
 Run by ```$node simple-web-server.js```
+
+Pub-sub example
+---
+Publisher and subscriber client in the same file.
+
+Subscribes to channel "feed1", recieves two messages then ends.
+
+Run by ```$node pub-sub.js```
